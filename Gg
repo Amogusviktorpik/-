@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html style="color:red">
+<head>
+    <meta charset="UTF-8">
+    <title>Дата рождения.</title>
+</head>
+<body>
+    <h1>Введите дату рождения.</h1>
+    <input type="month">
+    <input type="number" name="дд" value="">
+    <p>Здесь ты сможешь ввести дату рождения.</p>
+    <a href="https//:YouTube.com">hello</a>
+</body>
+</html>
